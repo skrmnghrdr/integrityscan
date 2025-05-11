@@ -1,0 +1,8 @@
+first create a hash list of known good binaries:
+python3 main.py -d bin/ -m -o test.txt
+
+
+how to compare syntax:
+python3 main.py --good-hash test.txt -c --dir bin/ --output results.txt
+
+

@@ -1,0 +1,19 @@
+{
+    "bin/activate": "19987a4c0a81a83489f66e0b0639cfc2",
+    "bin/activate.csh": "03d7bd621d67af44d755718dff5d8e10",
+    "bin/activate.fish": "b191b75f8d8febf5af465439598e2562",
+    "bin/Activate.ps1": "ffb074b8336789578f50a6c1a1632342",
+    "bin/faketivate": "19987a4c0a81a83489f66e0b0639cfc2",
+    "bin/pip": "88f833333defcfb0023b25373666ae78",
+    "bin/pip3": "88f833333defcfb0023b25373666ae78",
+    "bin/pip3.12": "88f833333defcfb0023b25373666ae78",
+    "bin/pyi-archive_viewer": "8f82de10e983212982cfabf324adc513",
+    "bin/pyi-bindepend": "cf20a8cab38d0c98e55ee3607da72a02",
+    "bin/pyi-grab_version": "765aeeed9d0430c21d838b1d01f70d1c",
+    "bin/pyi-makespec": "c177def52ff8741cbbfc1a64bf169704",
+    "bin/pyi-set_version": "dbaa80a1c0d02a2bd01c120b43342004",
+    "bin/pyinstaller": "077112d887fadef1d149a0600a5e159d",
+    "bin/python": "3f7c041516d16d1a55d6c523ad4fe21a",
+    "bin/python3": "3f7c041516d16d1a55d6c523ad4fe21a",
+    "bin/python3.12": "3f7c041516d16d1a55d6c523ad4fe21a"
+}
