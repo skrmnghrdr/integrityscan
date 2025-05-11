@@ -6,3 +6,15 @@ how to compare syntax:
 python3 main.py --good-hash test.txt -c --dir bin/ --output results.txt
 
 
+File is still a prototype, I also included the compiled file into one ELF (named: binarychecker ) for ease
+
+code is stil pretty dirty but It works.
+
+whole compiled binary is portable and is only 7.2MB in filesize. 
+I would addmore functionality to it. The goal is to use only built in python libraries so it would be more flexible 
+
+
+Future versions would include:
+remote scanning
+json exfiltration
+maybe a gui.
